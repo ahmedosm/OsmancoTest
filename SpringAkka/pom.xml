@@ -16,6 +16,7 @@
         <maven.test.skip>true</maven.test.skip>
     </properties>
     <name>SpringAkka</name>
+    
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
